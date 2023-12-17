@@ -1,0 +1,25 @@
+body {
+    color: #000;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: 700;
+}
+
+button {
+    color: #ffffff;
+    background-color: #0000ff;
+    width: 250px;
+    height: 80px;
+}
+
+p {
+    font-size: 35px;
+    margin-block: 35px;
+}
+
+button:hover{
+    background-color: #008000;
+}
